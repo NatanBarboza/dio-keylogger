@@ -1,0 +1,11 @@
+
+Seus arquivos foram criptografados.
+
+Esta é apenas uma simulação educacional.
+
+Boas práticas reais:
+- mantenha backups atualizados
+- utilize MFA
+- aplique patches de segurança
+- evite phishing
+- utilize EDR/Antivírus
